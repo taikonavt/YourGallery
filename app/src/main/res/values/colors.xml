@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary1">#008577</color>
+    <color name="colorPrimaryDark1">#00574B</color>
+    <color name="colorPrimaryLight1">#4cb5a6</color>
+    <color name="colorAccent1">#D81B60</color>
+    <color name="colorAccentDark1">#a00037</color>
+    <color name="colorAccentLight1">#ff5c8d</color>
+    <color name="onColorPrimary1">#FFFFFF</color>
+    <color name="onColorPrimaryDark1">#FFFFFF</color>
+    <color name="onColorPrimaryLight1">#000000</color>
+    <color name="onColorAccent1">#FFFFFF</color>
+    <color name="onColorAccentDark1">#FFFFFF</color>
+    <color name="onColorAccentLight1">#000000</color>
+    <color name="colorBackground1">#FFFFFF</color>
+
+    <color name="colorPrimary2">#212121</color>
+    <color name="colorPrimaryDark2">#000000</color>
+    <color name="colorPrimaryLight2">#484848</color>
+    <color name="colorAccent2">#00e676</color>
+    <color name="colorAccentDark2">#00b248</color>
+    <color name="colorAccentLight2">#66ffa6</color>
+    <color name="onColorPrimary2">#FFFFFF</color>
+    <color name="onColorPrimaryDark2">#FFFFFF</color>
+    <color name="onColorPrimaryLight2">#FFFFFF</color>
+    <color name="onColorAccent2">#000000</color>
+    <color name="onColorAccentDark2">#000000</color>
+    <color name="onColorAccentLight2">#000000</color>
+    <color name="colorBackground2">#212121</color>
+
+    <color name="colorError">#FFFF0000</color>
+</resources>
