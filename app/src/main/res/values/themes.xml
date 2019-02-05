@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppThemeGreen" parent="AppTheme1">
-        <item name="fabStyle">@style/fabStyle1</item>
+    <style name="AppThemeGreen" parent="MyAppThemeGreen">
         <item name="onColorPrimary">@color/onColorPrimary1</item>
     </style>
-    <style name="AppThemeBlack" parent="AppTheme2">
-        <item name="fabStyle">@style/fabStyle2</item>
+    <style name="AppThemeBlack" parent="MyAppThemeBlack">
         <item name="onColorPrimary">@color/onColorPrimary2</item>
     </style>
 </resources>

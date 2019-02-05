@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="MyAppTheme">
-        <attr name="fabStyle" format="reference"/>
+        <attr name="textColor" format="reference"/>
+        <attr name="hintColor" format="reference"/>
         <attr name="onColorPrimary" format="reference"/>
     </declare-styleable>
 </resources>
